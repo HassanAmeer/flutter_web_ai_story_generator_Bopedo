@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349436306147",
+    "project_id": "deborduurshop-a41a3",
+    "storage_bucket": "deborduurshop-a41a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349436306147:android:7951f62219d54188f35bd6",
+        "android_client_info": {
+          "package_name": "com.scorpionsol.deborduurshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWskxnbZPEeNINebpZenhDiZ2PfCmlPP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
