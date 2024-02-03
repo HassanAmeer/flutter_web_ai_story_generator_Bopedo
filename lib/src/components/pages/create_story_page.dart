@@ -344,7 +344,7 @@ class _CreateStoryPageState extends State<CreateStoryPage> {
         generatedImage = await Utils.generateImage(
             story.length > 100 ? story.substring(0, 99) : story);
         print("🍳 important : $generatedImage");
-        print("📌 Step 2");
+        print("📌 Step 2"); 
 
         // image is stored in generatedImge variable,,
         // if generated image is not empty then download the image
